@@ -2,8 +2,7 @@
 
 A expense tracker web app built with React and Vite to practice React hooks and localStorage persistence.
 
-<img width="1339" height="568" alt="image" src="https://github.com/user-attachments/assets/0ca7808f-d5de-4b1a-bd05-6890b4844988" />
-
+<img width="1271" height="533" alt="image" src="https://github.com/user-attachments/assets/a3115bc9-7fc7-4fd4-8efc-29616582c85e" />
 
 
 ## 🚀 Features
@@ -13,7 +12,6 @@ A expense tracker web app built with React and Vite to practice React hooks and 
 - Total sum of expenses displayed.
 - Expense distribution chart by category (Pie Chart).
 - Data persists in localStorage between sessions.
-- Responsive and dark/light theme support.
 
 
 ## 🛠️ Technologies
